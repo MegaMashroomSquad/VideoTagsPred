@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cp-hack"
+version = "0.1.0"
+description = ""
+authors = ["CrudyLame <dopeyslimeg@gmail.com>"]
+readme = "README.md"
+packages = [{include = "cp_hack"}]
+
+[tool.poetry.dependencies]
+python = "3.10.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
