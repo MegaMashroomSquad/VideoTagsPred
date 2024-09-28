@@ -8,6 +8,15 @@ packages = [{include = "cp_hack"}]
 
 [tool.poetry.dependencies]
 python = "3.10.15"
+openai-whisper = "^20231117"
+moviepy = "^1.0.3"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+matplotlib = "^3.9.2"
+anytree = "^2.12.1"
+scikit-learn = "^1.5.2"
+datasets = "^3.0.1"
+scikit-multilearn = "^0.2.0"
 
 
 [build-system]
