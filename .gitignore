@@ -1,1 +1,6 @@
 new_baseline.ipynb
+/train_dataset_tag_video
+train_dataset_tag_video.zip
+temp_audio.wav
+*__pycache__
+llama2_example_kor_nli.ipynb
